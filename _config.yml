@@ -105,7 +105,7 @@ avatar: "https://i.pinimg.com/564x/d9/66/ed/d966ed3f00c2dde92cb0069d76a7eec1.jpg
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.

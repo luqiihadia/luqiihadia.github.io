@@ -10,4 +10,4 @@ I specialize in web application security, API testing, and creative bug-hunting 
 
 When I’m not hacking, I’m probably spending time with animals or gaming—two of my favorite ways to relax. Whether it’s finding creative solutions in security or connecting with furry friends, I’m always drawn to things that challenge or inspire me.
 
-Feel free to reach out through hello@luqii.dev or check out my HackerOne profile [here](https://hackerone.com/luqii).
+Feel free to reach out through [hello@luqii.dev](mailto:hello@luqii.dev) or check out my HackerOne profile [here](https://hackerone.com/luqii).
